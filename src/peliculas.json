@@ -1,0 +1,102 @@
+[
+   {
+      "titulo": "Oblivion (2012)",
+      "puntuacion": "8.1",
+      "director": "Joss Whedon",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": " Robert Downey Jr., Chris Evans,Chris Hemsworth",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv1.jpg",
+      "descripcion": "Earths mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+   },
+   {
+      "titulo": "Into the wild (2014)",
+      "puntuacion": "7.8",
+      "director": "Anthony Russo, Joe Russo",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": " Chris Evans,Samuel L. Jackson, Scarlett Johansson. ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv2.jpg",
+      "descripcion": "Earths mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity... "
+   },
+   {
+      "titulo": "blade runner (2015)",
+      "puntuacion": "7.3",
+      "director": " Peyton Reed",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": " Paul Rudd, Michael Douglas ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv3.jpg",
+      "descripcion": "  Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help...  "
+   },
+   {
+      "titulo": " Mulholland pride (2013)",
+      "puntuacion": "7.2",
+      "director": " Shane Black",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": "Robert Downey Jr., Guy Pearce,Don Cheadle ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv4.jpg",
+      "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.   "
+   },
+   {
+      "titulo": " skyfall: evil of boss (2013)",
+      "puntuacion": "7.0",
+      "director": " Alan Taylor",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": "Chris Hemsworth, Natalie Portman,Tom Hiddleston ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv5.jpg",
+      "descripcion": " When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.   "
+   },
+    {
+      "titulo": "Oblivion (2012)",
+      "puntuacion": "8.1",
+      "director": "Joss Whedon",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": " Robert Downey Jr., Chris Evans,Chris Hemsworth",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv1.jpg",
+      "descripcion": "Earths mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+   },
+   {
+      "titulo": "Into the wild (2014)",
+      "puntuacion": "7.8",
+      "director": "Anthony Russo, Joe Russo",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": " Chris Evans,Samuel L. Jackson, Scarlett Johansson. ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv2.jpg",
+      "descripcion": "Earths mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity... "
+   },
+   {
+      "titulo": "blade runner (2015)",
+      "puntuacion": "7.3",
+      "director": " Peyton Reed",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": " Paul Rudd, Michael Douglas ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv3.jpg",
+      "descripcion": "  Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help...  "
+   },
+   {
+      "titulo": " Mulholland pride (2013)",
+      "puntuacion": "7.2",
+      "director": " Shane Black",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": "Robert Downey Jr., Guy Pearce,Don Cheadle ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv4.jpg",
+      "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.   "
+   },
+   {
+      "titulo": " skyfall: evil of boss (2013)",
+      "puntuacion": "7.0",
+      "director": " Alan Taylor",
+      "lanzamiento": "Release: 1 May 2015",
+      "actores": "Chris Hemsworth, Natalie Portman,Tom Hiddleston ",
+      "duracion": "2h 21min",
+      "imagen": "images/uploads/mv5.jpg",
+      "descripcion": " When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.   "
+   }
+]
